@@ -16,7 +16,7 @@ public class Main_1 {
     }
 }
 
-
+// Class 22.10.22
 //    static int Sum(int i, int[] A) {
 //        if (i==(A.length-1))
 //            return A[i];
