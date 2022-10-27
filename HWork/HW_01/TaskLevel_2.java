@@ -8,6 +8,7 @@ public class TaskLevel_2 {
         System.out.println("Enter number:");
         int number = scanner.nextInt();
         System.out.println(sumOfNumber(number));
+        int yy=0;
     }
 
     public static int sumOfNumber(int number) {
