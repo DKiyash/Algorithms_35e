@@ -1,4 +1,4 @@
-package algoritms.ClassWork;
+package algoritms.ClassWork_01;
 
 public class Main_1 {
     public static void main(String[] args) {
