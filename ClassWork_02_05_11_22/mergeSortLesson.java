@@ -1,4 +1,4 @@
-package algoritms.ClassWork_03_05_11_22;
+package algoritms.ClassWork_02_05_11_22;
 import java.util.Arrays;
 
 /**
@@ -43,7 +43,7 @@ public class mergeSortLesson {
     private static void mergeSort(int[] arr) {
         int lengthArr = arr.length; // длинна массива
 
-        if (lengthArr == 1) { // условие выхода
+        if (lengthArr <= 1) { // условие выхода
             return;
         }
 
