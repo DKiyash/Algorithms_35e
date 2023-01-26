@@ -7,17 +7,17 @@ import java.util.Stack;
 
 public class Lev_01 {
     public static void main(String[] args) {
-        char[] chars1 = "([{}])".toCharArray();
+        char[] chars1 = "[{}{}{}{()[]}]".toCharArray();
         System.out.println("Ответ (Stack): " + isListSymmetricStack(chars1));
         System.out.println();
 
-        char[] chars2 = "([)]".toCharArray();
-        System.out.println("Ответ (Stack): " + isListSymmetricStack(chars2));
-        System.out.println();
-
-        char[] chars3 = "{()]".toCharArray();
-        System.out.println("Ответ (Stack): " + isListSymmetricStack(chars3));
-        System.out.println();
+//        char[] chars2 = "([)]".toCharArray();
+//        System.out.println("Ответ (Stack): " + isListSymmetricStack(chars2));
+//        System.out.println();
+//
+//        char[] chars3 = "{()]".toCharArray();
+//        System.out.println("Ответ (Stack): " + isListSymmetricStack(chars3));
+//        System.out.println();
 
     }
 

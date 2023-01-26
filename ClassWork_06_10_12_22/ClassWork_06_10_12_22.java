@@ -1,4 +1,4 @@
-package algoritms;
+package algoritms.ClassWork_06_10_12_22;
 
 import java.util.Queue;
 import java.util.Random;
